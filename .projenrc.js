@@ -10,7 +10,7 @@ const project = new awscdk.AwsCdkConstructLibrary({
 
   npmDistTag: 'latest',
   npmRegistryUrl: 'https://npm.pkg.github.com',
-  packageName: '@diranged/JSII3000-coremodule-example',
+  packageName: '@diranged/jsii3000-coremodule-example',
 
   // deps: [],                /* Runtime dependencies of this module. */
   // description: undefined,  /* The description is just a string that helps people understand the purpose of the package. */
